@@ -1,4 +1,4 @@
-# Theia - Top Menu
+# Theia - standalone
 
 ### Description
 
